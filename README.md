@@ -34,7 +34,7 @@ containing the domain — GitHub's Pages docs walk through it.
 currently addressed to `wade.cao@euroasiadevelopment.com`.
 
 - The **first** submission triggers a one-time activation email to that address — click it once and the form works from then on.
-- To change the receiving address, edit the `action="https://formsubmit.co/…"` URL in `contact.html`.
+- To change the receiving address, edit the `action="https://formsubmit.co/…"` URL in `contact.html`.   
 
 ## Editing
 
